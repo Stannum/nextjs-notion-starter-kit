@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'b99377a070ab42a89d6419b603680a53',
+  rootNotionPageId: 'ca13bd75059947498461907c09a332ec',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Ladies Who Tech Hong Kong',
-  domain: 'https://www.notion.so/b99377a070ab42a89d6419b603680a53?v=0128a919ece94ebf995ed09aa0b29761',
+  domain: 'https://www.notion.so/Our-Events-ca13bd75059947498461907c09a332ec',
   author: 'Ladies Who Tech Hong Kong',
 
   // open graph metadata (optional)
