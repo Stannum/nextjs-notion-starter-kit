@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Ladies Who Tech Hong Kong',
-  domain: 'https://www.notion.so/b99377a070ab42a89d6419b603680a53',
+  domain: 'https://www.notion.so/b99377a070ab42a89d6419b603680a53?v=0128a919ece94ebf995ed09aa0b29761',
   author: 'Ladies Who Tech Hong Kong',
 
   // open graph metadata (optional)
