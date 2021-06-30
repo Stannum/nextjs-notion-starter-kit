@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Ladies Who Tech Hong Kong',
-  domain: 'https://www.notion.so/Our-Events-ca13bd75059947498461907c09a332ec',
+  domain: 'https://www.notion.so/ca13bd75059947498461907c09a332ec',
   author: 'Ladies Who Tech Hong Kong',
 
   // open graph metadata (optional)
@@ -19,7 +19,8 @@ module.exports = {
   // social usernames (optional)
   twitter: '',
   github: '',
-  linkedin: '',
+  linkedin: 'ladies-who-tech',
+  facebook: 'ladieswhotech',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
