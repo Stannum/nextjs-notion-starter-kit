@@ -4,7 +4,7 @@ module.exports = {
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: 0128a919ece94ebf995ed09aa0b2976,
+  rootNotionSpaceId: null,
 
   // basic site info (required)
   name: 'Ladies Who Tech Hong Kong',
